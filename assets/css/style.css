@@ -1,4 +1,12 @@
-body {
-
-    
-}
+html {
+    scroll-behavior: smooth;
+  }
+  li {
+    display: inline;
+    font-size: 40px;
+    padding:0.1%;
+  }
+  ul {
+    text-align: right;
+    list-style-type:none;
+  }
