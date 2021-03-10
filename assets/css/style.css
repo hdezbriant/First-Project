@@ -10,3 +10,7 @@ html {
     text-align: right;
     list-style-type:none;
   }
+  body {
+
+    background-color: lightgrey;
+  }
